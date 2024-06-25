@@ -1,5 +1,8 @@
 ## Table of Contents
 
+Bootledger is the first mobile app that is specialized for giving feedback to the companies.
+Bootledger2 is the second mobile app that is specialized for supply chain tracking of products.
+
 - [About](#about)
 - [Installation](#installation)
 
